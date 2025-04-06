@@ -74,5 +74,5 @@ graph TD
     style Available_Tools fill:#e8f5e9,stroke:#333,stroke-width:1px
     style User_Interface fill:#fff3e0,stroke:#333,stroke-width:1px
     style Environment fill:#fce4ec,stroke:#333,stroke-width:1px
-## Demo Video
+
 

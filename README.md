@@ -76,7 +76,3 @@ graph TD
     style Environment fill:#fce4ec,stroke:#333,stroke-width:1px
 ## Demo Video
 
-<video controls>
-    <source src="/home/prashanthktgowda/academics_project/autonomus-AI/autonomous-agent-project/demo video.webm" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
